@@ -1,1 +1,1 @@
-# quanx rules for myself.
+# quanx conf for ours.

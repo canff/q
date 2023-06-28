@@ -1,1 +1,1 @@
-# quan_x conf for ours.
+# q_x conf for ours.

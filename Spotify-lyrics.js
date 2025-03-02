@@ -33,8 +33,7 @@ http-response ^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/ s
       正则填入^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/
 */
 // 注意: QX用户需要手动填入appid和securityKey密钥, Surge和Loon用户无需填入!!!!
-hostname = spclient.wg.spotify.com
-^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/ url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_json.js
+
 const options = {
     appid: '20250302002289634',
     securityKey: 'AHAAeReAWZAYmnN3Jr4j'
